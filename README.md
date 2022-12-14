@@ -6,6 +6,8 @@ Given real world online transaction data...with attributes like which card was u
 ## To run any particular algorithm
 - goto the ./model folder
 - change input datapath as per your .csv file
-- run pip install -r requirements.txt
-- run python filename.py to run particular algorithm on your data
-
+- run following code segment to execute any file
+```
+pip install -r requirements.txt
+python filename.py
+```
