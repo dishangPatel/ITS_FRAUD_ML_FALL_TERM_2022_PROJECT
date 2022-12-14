@@ -11,3 +11,4 @@ Given real world online transaction data...with attributes like which card was u
 pip install -r requirements.txt
 python filename.py
 ```
+** Note : To fine tune any hyper parameters just un comment the code that is part of tunning function...we have clearly mentioned by commeting it...on how to fine tune that parameters and how to pass parameter space **
